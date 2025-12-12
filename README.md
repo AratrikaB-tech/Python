@@ -1,5 +1,6 @@
 # Python
-This repository stores my various projects done using Python programming language. In this README file, I inted to explain my thought process while writing the code for each project, in order to make the project easier to understand for myself, as well ass others.
+This repository stores my various projects done using Python programming language. In this README file, I intend to explain my thought process while writing the code for each project, in order to make the project easier to understand for myself, as well ass others. 
+--- Python Mini Projects
 **#Project 1- Calculator (CLI)**
 Introduction: Here, I've created a simple command-line calculator that performs basic arithmetic: Addition, subtraction, multiplication and division. 
 Code Explanation: 
@@ -9,4 +10,4 @@ Code Explanation:
 4) After that, I've linked the various operations, defined in the form of functions in the beginning, to their respective input values, or input operators, by the user. In case the user enters any choice other than the four mentiooned operators (+ - * /), then it will print "Invalid operator".
 Finally, it will print the result of the operation as chosen by the user.
 
-**Project 2- To-Do List**
+
