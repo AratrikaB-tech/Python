@@ -1,7 +1,7 @@
 # Python
 This repository stores my various projects done using Python programming language. In this README file, I intend to explain my thought process while writing the code for each project, in order to make the project easier to understand for myself, as well ass others. 
 --- Python Mini Projects
-**#Project 1- Calculator (CLI)**
+**#Project 1- Calculator (CLI-Command Line Input)**
 Introduction: Here, I've created a simple command-line calculator that performs basic arithmetic: Addition, subtraction, multiplication and division. 
 Code Explanation: 
 1) First of all, I've defined the exact operations that the calculator needs to perform, in the form of functions. While there are no exceptional cases in Addition, Subtraction or Multiplication, I've included an expceptional case in the divide(x,y) function, that is, division by 0. This ensures that, if the input specifies the division of any number by zero, then it would return an "Error" message (modified).
